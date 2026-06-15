@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-terciopelo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Caricia de terciopelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-terciopelo/) |
+| **Get License** | [Official Music Licensing for Caricia de terciopelo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-terciopelo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes la magia que a mí me acelera
+> Una caricia de terciopelo que quema mi piel
+> Vámonos de party, que la noche nos espera
+> Eres el pecado que siempre quiero cometer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
